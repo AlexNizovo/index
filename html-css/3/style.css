@@ -1,0 +1,15 @@
+table {
+    width: 480px;
+    border-collapse: collapse;
+}
+td , th {
+    border-style: groove;
+    border-color: black;
+    height: 80px;
+}
+.lr {
+text-align: right;
+}
+.lf {
+text-align: left;
+}
