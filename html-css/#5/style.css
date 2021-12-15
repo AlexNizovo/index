@@ -1,0 +1,13 @@
+div {
+    border: solid 3px;
+    height: 240px;
+    width: 500px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 20px;
+    border-left-color: sienna;
+    border-right-color: springgreen;
+    border-bottom-color: tomato;
+    border-top-color: blue;
+}

@@ -1,0 +1,25 @@
+em {
+    font-size: 14pt;
+    color: rgb(72, 25, 116);
+}
+big {
+    color: red;
+    font-weight: 700;
+}
+h1 {
+    color: red;
+    text-align: center;
+}
+h2 {
+    color: seagreen;
+}
+ol {
+    color: red;
+}
+.bl {
+    color:  blue;
+}
+.textA {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2;
+}
