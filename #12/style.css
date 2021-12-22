@@ -1,0 +1,21 @@
+b {
+    color: red;
+}
+
+div {
+    border-left-style: dotted;
+    height: 600px;
+    width: 200px;
+}
+
+em, h1, h3 {
+    color: blue;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
