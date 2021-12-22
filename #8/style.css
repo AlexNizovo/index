@@ -1,0 +1,12 @@
+h1, h2, th {
+    font-weight: lighter;
+} 
+
+td {
+    font-weight: 700;
+}
+
+table, td, th {
+    border-style: solid;
+    border-collapse: collapse;
+}
