@@ -1,0 +1,28 @@
+h2 {
+    text-align: right;
+}
+
+p {
+    text-align: justify;
+}
+
+#help {
+    text-align: center;
+}
+
+table {
+    border-style: solid;
+    border-collapse: collapse;
+}
+
+td, th {
+    border-style: solid;
+}
+
+th {
+    text-align: left;
+}
+
+td, h1 {
+    text-align: center;
+}
