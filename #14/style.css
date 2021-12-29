@@ -1,0 +1,40 @@
+#test a:link, #test a:visited {
+    text-decoration: none;
+    color: red;
+}
+
+#test a:hover {
+    color: blue;
+}
+
+a.www:link,:visited {
+    color: blue;
+}
+
+a.www:hover {
+    text-decoration: none;
+}
+
+#test a.www:link{
+    color: rgb(33, 137, 141);
+}
+
+#test a.www:visited {
+    color: rgb(5, 2, 2);
+}
+
+#test a.www:hover {
+    color: chartreuse;
+}
+
+.eee .www:link {
+    color: darkgoldenrod;
+}
+
+.eee .www:hover {
+    color: rgb(104, 117, 119);
+}
+
+.eee .www:visited {
+    color: rgb(31, 245, 113);
+}
