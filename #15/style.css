@@ -1,0 +1,11 @@
+#left {
+   border-left-style: dotted;
+}
+#right {
+    border-style: solid;
+    border-color: red;
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    margin: 50px 100px 100px 50px;
+}
