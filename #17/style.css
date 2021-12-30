@@ -1,0 +1,18 @@
+img.left {
+    float: left;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+img.right {
+    float: right;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+p {
+    font-size: 16pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
