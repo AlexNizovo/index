@@ -1,0 +1,17 @@
+div {
+    border: 2px solid blue;
+    margin-bottom: 10px;
+    width: 200px;
+    padding: 5px 5px;
+}
+a:hover, :link {
+    text-decoration: none;
+    color: blue;
+}
+a:hover {
+    font-weight: bold;
+}
+div:hover {
+    border: dotted;
+    color: darkcyan;
+}
