@@ -3,11 +3,14 @@
 // }
 
 function simvol (number, simvOl) {
-    for (let index = 0; index < number; index++) {
-        console.log(Array(index).fill(simvOl).join(''))
- } 
+    if (simvOl.length == 1) {
+        for (let index = 0; index < number; index++) {
+            console.log(Array(index).fill(simvOl).join(''))
+        } 
+    } else {
+        console.log('Ошибка ввода символа')
+    }
 }
 
-simvol( 10, '$' )
+simvol( 10, '' )
 simvol( 5, '8' ) 
-simvol( 12, '±', '#' )
